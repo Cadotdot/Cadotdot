@@ -1,6 +1,6 @@
 <!-- welcome message -->
  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
- <h2> I am Cadot dot, information system student at X University </h2>
+ <h3> I am Cadot dot, information system student at X University </h3>
  <h3>Glad to see you here!</h3>
 
 <!-- retro visitor counter -->
