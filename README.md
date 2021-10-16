@@ -1,5 +1,5 @@
 <!-- retro visitor counter -->
- <p align="right"> 
+ <p align="center"> 
   <![](https://komarev.com/ghpvc/?username=AlbertusAlanMehetabel&color=58a4b0&label=VIEWS) />
  </p>
 <!-- welcome message -->
