@@ -1,11 +1,10 @@
-<!-- retro visitor counter -->
-  ![](https://komarev.com/ghpvc/?username=AlbertusAlanMehetabel&color=58a4b0&label=VIEWS)
-
 <!-- welcome message -->
- <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Cadot dot </h2>
-  
+ <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+ <h2> I am Cadot dot, information system student at X University </h2>
  <h3>Glad to see you here!</h3>
 
+<!-- retro visitor counter -->
+  ![](https://komarev.com/ghpvc/?username=AlbertusAlanMehetabel&color=58a4b0&label=VIEWS)
 
 - 👋 Hi, I’m @Cadotdot
 - 👀 I’m interested in ...
