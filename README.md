@@ -1,6 +1,6 @@
 <!-- visitor counter -->
  <p align="right"> 
-  <![](https://komarev.com/ghpvc/?username=Cadotdot&color=FFFBFC&label=VIEWS) />
+  ![](https://komarev.com/ghpvc/?username=Cadotdot&color=FFFBFC&label=VIEWS)
  </p>
 
 <!-- welcome message -->
